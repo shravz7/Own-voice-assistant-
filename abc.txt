@@ -1,0 +1,12 @@
+or the individuals responsible for system maintenance do not understand the
+system or the background to system design decisions. A lot of the effort dur-
+ing the maintenance process is taken up with understanding the existing sys-
+tem before implementing changes to it.
+
+Contractual responsibility The contract to maintain a system is usually sepa-
+rate from the system development contract. The maintenance contract may be
+given to a different company rather than the original system developer. This
+factor, along with the lack of team stability, means that there is no incentive
+for a development team to write the software so that it is easy to change. If a
+development team can cut comers to save effort during development, it is worth-
+while for them to do so even if it means increasing maintenance costs.
